@@ -2,8 +2,9 @@
 MD5 Decryptor
 
 Requirements :
-> python3
-> requests  > pip install requests
+- python3
+
+- requests  > pip install requests
 
 How To use?
 

